@@ -1,6 +1,6 @@
 ## Deep Criss-Cross Attention Module for Fashion Landmark Detection
 
-![architecture](./img/architecture.pdf)
+![architecture](./img/architecture.jpg)
 
 
 ### Requirements
