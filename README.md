@@ -11,7 +11,7 @@
 - torchvision
 
 ### Quick Start
-* We referred the code in [[site](https://github.com/suminlee94/GLE_FLD)], [[site](https://github.com/GengDavid/pytorch-cpn)], and [[site](https://github.com/speedinghzl/CCNet)].
+* We referred the code in [[GLE](https://github.com/suminlee94/GLE_FLD)], [[CPN](https://github.com/GengDavid/pytorch-cpn)], and [[CCNet](https://github.com/speedinghzl/CCNet)].
 
 #### 1. Download the datasets
 * Deepfashion [[download](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html)]
