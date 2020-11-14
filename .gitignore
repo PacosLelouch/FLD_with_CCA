@@ -1,0 +1,9 @@
+/cc_attention/*
+!/cc_attention/CC.py
+/models*/
+/__pycache__/
+/PDL/
+/*.bat
+/*.sh
+/Anno/df_info.csv
+/Anno/fld_info.csv
